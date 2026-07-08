@@ -14,5 +14,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jotybiswas2022-coder/jotybiswas2022-coder/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/jotybiswas2022-coder/jotybiswas2022-coder/output/github-contribution-grid-snake-dark.svg" />
 </p>
