@@ -11,4 +11,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/jotybiswas2022-coder/jotybiswas2022-coder/blob/output/github-contribution-grid-snake.svg)
